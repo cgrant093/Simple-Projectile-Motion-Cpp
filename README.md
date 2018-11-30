@@ -1,1 +1,2 @@
-Simple-Projectile-Motion-Cpp
+Simple-Projectile-Motion
+
